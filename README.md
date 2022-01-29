@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Svelte and Rust
 - 💞️ I’m looking to collaborate in OSS projects
-- 📫 How to reach me: TBD
+- 📫 Reach me on [linked in](https://www.linkedin.com/in/esteban-gomez-/)
 
 <!---
 teb88/teb88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
