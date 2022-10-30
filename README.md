@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Esteban / Tebi / Teb
-- 👀 I’m interested in mobile and web development
+- 👋 Hi, I’m Esteban
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning Svelte and Rust
 - 💞️ I’m looking to collaborate in OSS projects
 - 📫 Reach me on [linked in](https://www.linkedin.com/in/esteban-gomez-/)
